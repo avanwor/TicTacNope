@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Dev Builds
+bundle.js
+bundle.js.gz
+
+#Node extras
+package-lock.json
