@@ -1,4 +1,4 @@
-.App {
+.Title {
     font-size: 50px;
   }
   
@@ -11,6 +11,10 @@
   .Turn {
     font-size: 30px;
   }
+
+  .winRed {
+      color: red;
+  }
   
   .Cell {
     border-style: solid;
@@ -18,4 +22,16 @@
     font-size: 60px;
     width: 120px;
     height: 120px;
+  }
+
+  button {
+    margin-top: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  button:active{
+    background:grey;
   }
