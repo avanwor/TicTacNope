@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Board from './board'
 
 class App extends Component {
     constructor(props) {
@@ -13,9 +14,10 @@ class App extends Component {
     }
 
     render() {
-        return <div>{this.state.intro} from app.js</div>
+        return (
+            <Board />
+        )
     }
 };
-
 
 export default App;
