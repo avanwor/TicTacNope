@@ -21,7 +21,7 @@
    ```
 
 ## 🤷‍ Assumptions and 💪 Decisions 
-1. 
+1. Taking the instructions as literally as possible, the bot only does not need to lose. It does not need to win, making the calculations simpler. 
 
 ## 🧐 With more time
-1. 
+1. More css and animations
